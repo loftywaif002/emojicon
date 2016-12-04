@@ -1,4 +1,4 @@
-## Emojicon
+## Emojicon (For Android Application)
 
 Whatsapp like implementation for emjoicons which appear as a popup over the  soft keyboard
 
@@ -14,6 +14,8 @@ Note : `EmojiconTextView`: a `TextView` which can render emojis.
 
 Note : `EmojiconEditText`: a `EditText` which can render emojis.
 
+##StackOverflow Implementation Help
+http://stackoverflow.com/questions/32185704/import-emojicon-library-into-android-studio/38430063#38430063
 
 ## Acknowledgements
 
